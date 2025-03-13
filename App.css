@@ -1,0 +1,14 @@
+body{
+  background-color: #000;
+  color: #FFF;
+}
+.App {
+  text-align: center;
+}
+
+.corpo{
+  margin: 0;
+  h1{
+    color: rgb(255, 106, 130);
+  }
+}
